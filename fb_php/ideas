@@ -1,0 +1,14 @@
+- database opzetten
+- user naam in database gooien
+- bij elke kamer/team een willekeurige persoon zetten.
+- user(s) krijgt punten
+- user(s) met hoogste punten in database wordt winnaar
+- einde session wordt user van database verwijdert
+- users tabel -> prijzen tabel -> winnaars met images tabel
+
+pseudocode room:
+log in
+join random room/team
+haalt namen uit database (active users)
+zet in random room/team.
+
